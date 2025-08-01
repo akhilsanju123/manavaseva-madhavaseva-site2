@@ -14,7 +14,7 @@ const Gallery = () => {
       title: "Medical Camp - Rural Healthcare",
       category: "Medical",
       description: "Free health checkups and medicine distribution in remote villages",
-      image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      image: "https://i.pinimg.com/1200x/07/fa/9f/07fa9fb6df7b3d23c4f8803085f9ff7c.jpg",
       icon: <Stethoscope size={20} />
     },
     {

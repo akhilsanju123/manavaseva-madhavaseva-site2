@@ -83,7 +83,6 @@ const Home = () => {
               </Button>
               <Button 
                 size="lg" 
-                // variant="outline" 
                 className="border-white text-white hover:bg-white hover:text-trust-maroon transition-all duration-300"
               >
                 <Users size={20} className="mr-2" />
@@ -173,7 +172,6 @@ const Home = () => {
             </Button>
             <Button 
               size="lg" 
-              // variant="outline" 
               className="border-white text-white hover:bg-white hover:text-trust-maroon transition-all duration-300"
               asChild
             >
